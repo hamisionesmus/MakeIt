@@ -1,0 +1,77 @@
+{
+  "productList": [
+    {
+      "productName": "hamisi",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 45,
+      "comment": "hello ",
+      "date": "2023-05-09T21:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "laptop",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 345,
+      "comment": "this is the best product ever",
+      "date": "2023-05-18T21:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "laptop",
+      "category": "Electronics",
+      "freshness": "Refurbished",
+      "price": 345,
+      "comment": "this is the best product ever",
+      "date": "2023-05-18T21:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "table",
+      "category": "Electronics",
+      "freshness": "Second Hand",
+      "price": 1544,
+      "comment": "good product",
+      "date": "2023-05-17T21:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "table",
+      "category": "Electronics",
+      "freshness": "Brand New",
+      "price": 50,
+      "comment": "this is a nice product",
+      "date": "2023-05-10T21:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "hamisi",
+      "category": "Vegetables",
+      "freshness": "Brand New",
+      "price": 55,
+      "comment": "good",
+      "date": "2023-05-09T21:00:00.000Z",
+      "id": 6
+    },
+    {
+      "productName": "Hamso",
+      "category": "Vegetables",
+      "freshness": "Refurbished",
+      "price": 890,
+      "comment": "23",
+      "date": "2023-05-10T21:00:00.000Z",
+      "id": 7
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
